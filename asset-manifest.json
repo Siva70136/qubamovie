@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qubamovie/static/css/main.b45c4984.css",
-    "main.js": "/qubamovie/static/js/main.66bcadc7.js",
+    "main.css": "/qubamovie/static/css/main.056b6d90.css",
+    "main.js": "/qubamovie/static/js/main.2d15dcfe.js",
     "static/js/787.a0c3b921.chunk.js": "/qubamovie/static/js/787.a0c3b921.chunk.js",
     "index.html": "/qubamovie/index.html",
-    "main.b45c4984.css.map": "/qubamovie/static/css/main.b45c4984.css.map",
-    "main.66bcadc7.js.map": "/qubamovie/static/js/main.66bcadc7.js.map",
+    "main.056b6d90.css.map": "/qubamovie/static/css/main.056b6d90.css.map",
+    "main.2d15dcfe.js.map": "/qubamovie/static/js/main.2d15dcfe.js.map",
     "787.a0c3b921.chunk.js.map": "/qubamovie/static/js/787.a0c3b921.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b45c4984.css",
-    "static/js/main.66bcadc7.js"
+    "static/css/main.056b6d90.css",
+    "static/js/main.2d15dcfe.js"
   ]
 }
