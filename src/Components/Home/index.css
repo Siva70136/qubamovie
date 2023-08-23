@@ -1,0 +1,81 @@
+.app-container{
+    background-image: url('https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+}
+.nav-container {
+    width: 100%;
+    background-color: #212529;
+    margin-bottom: 10px;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    margin-bottom: -3%;
+}
+.logo{
+    width: 35px;
+}
+.table{
+    width: 500px;
+    text-align: center;
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 10px;
+    
+}
+.table{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.button{
+    border-radius: 8px;
+    cursor: pointer;
+    border-width: 0px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: goldenrod;
+   color:#9B111E;
+    width: 100px;
+}
+.head{
+    text-align: left;
+    color: #9B111E;
+    font-size: 20px;
+    font-weight: bold;
+}
+.more{
+    color: #9B111E;
+    font-size: 20px;
+    font-weight: bold;
+}
+.name{
+    font-size: 18px;
+    text-align: left;
+    font-weight: 500;
+    
+}
+@media screen and (max-width:760px){
+    .head{
+        text-align: center;
+        font-size: 16px;
+    }
+    .more{
+        font-size: 16px;
+    }
+    .name{
+        text-align: center;
+    }
+}
+.btn{
+    text-align: center;
+}
